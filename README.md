@@ -1,2 +1,2 @@
 # Inventory-Management-System-with-Json
-This a a Inventory Management system.
+An Inventory Management System (IMS) with Json using Python in Jupyter Notebook efficiently tracks and manages inventory data. This project’s primary goal is to record, update, and manage inventory details like product names, quantities, and prices, ensuring data persistence through file handling. This project demonstrates practical Python applications in inventory management with the help of Json.
